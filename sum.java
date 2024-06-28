@@ -3,3 +3,4 @@ public class Main
 		int a=12,b=15;
 		System.out.println(a+b);
 	}
+}
